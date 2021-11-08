@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PokemonGo</string>
+
+    <string-array name="nama_pokemon">
+        <item>Pikachu</item>
+        <item>Bulbasur</item>
+        <item>Squirtle</item>
+        <item>Meow</item>
+        <item>Lizard</item>
+        <item>Chameleon</item>
+        <item>Anaconda</item>
+    </string-array>
+
+    <string-array name="des_pokemon">
+        <item>Pikachu is electric pokemon an have cute face</item>
+        <item>Bulbasur is grass pokemon an have cute face</item>
+        <item>Squirtle is water pokemon an have cute face</item>
+        <item>Meow is stole pokemon an have cute face</item>
+        <item>Lizard is fire pokemon an have cute face</item>
+        <item>Chameleon is ninja pokemon an have cute face</item>
+        <item>Anaconda is poison pokemon an have cute face</item>
+    </string-array>
+</resources>
